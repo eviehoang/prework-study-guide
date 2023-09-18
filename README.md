@@ -1,4 +1,4 @@
-# <Prework Study Guide for Bootcamp
+# Prework Study Guide for Bootcamp
 
 ## Description
 
